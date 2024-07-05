@@ -1,1 +1,1 @@
-# TherapEase---a-Mental-Health-Chatbot
+# TherapEase-a-Mental-Health-Chatbot
